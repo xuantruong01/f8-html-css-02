@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+/* --------common part------- */
+
+:root {
+    --primary-color: #171100;
+}
+
+html,
+body {
+    scroll-behavior: smooth;
+}
